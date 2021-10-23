@@ -1,0 +1,3 @@
+<a href="<?php echo e(route('home')); ?>"><button class="btn btn-dark" id="home">Home</button></a>
+<a href="<?php echo e(route('productlist')); ?>"><button class="btn btn-dark" id="list">Product List</button></a>
+<a href="<?php echo e(route('create')); ?>"><button class="btn btn-dark" id="create">Product add</button></a><?php /**PATH C:\Users\Faiyaz\Downloads\APWT_Lab_Task_Migration\resources\views/include/navbar.blade.php ENDPATH**/ ?>
